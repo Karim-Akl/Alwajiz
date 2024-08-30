@@ -1,0 +1,83 @@
+section.sec-serv {
+  width: 100%;
+}
+.backServices{
+  /* background-image:url(../../../public/image/cleaning-service-flat-design-illustration-people-vacuum-wipe-dust-sweeping-floor-house-background-banner-poster_2175-2080.jpg.avif); */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  /* height: 50rem !important;  */
+  margin: auto;
+  text-align: right;
+  justify-content: center;
+  align-items: right;
+  background-attachment: fixed;
+  padding: 20px;
+  background: #313131;
+}
+.backServices  h3{
+  font-size: 3rem;
+  color: white;
+  font-weight: bolder;
+}
+.backServices  p{
+  font-size: large;
+  color: white;
+  font-weight: bolder;
+}
+section.sec-serv .class-bg{
+  margin: auto !important;
+  padding: 30px !important;
+}
+.imga{
+  border-radius: 20px !important;
+}
+
+.sec-serv .main-class{
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  left: 0px;
+  right: 0px;
+  top: 100% !important;
+  font-size: xx-large;
+  color: var(--badyBG) !important;
+  gap: 12px;
+  text-align: center;
+  margin-top: 30px;
+  font-size: 42px;
+  line-height: 26px;
+  width: auto;
+  transform: translateY(-50%);
+}
+@media only screen and (max-width: 890px) {
+
+  .sec-serv .main-class{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    left: 0px;
+    right: 0px;
+    top: 25% !important;
+    font-size: xx-large;
+    color: var(--badyBG) !important;
+    gap: 12px;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 42px;
+    line-height: 26px;
+    width: auto;
+    /* transform: translateY(50%); */
+  }
+  
+}

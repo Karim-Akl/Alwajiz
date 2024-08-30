@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "اندونيسيا",
+    "image": "/image/Flag_of_Indonesia.svg",
+    "cost":"3600"
+
+  },
+  {
+    "id": 2,
+    "name": "إثيوبيا  ",
+    "image": "/image/count1.png",
+    "cost":"1850"
+},
+{
+  "id": 3,
+    "name": "بروندي",
+    "image": "/image/0812202414323266ba1d009d1b8.png",
+    "cost":"1850"
+
+},
+{
+  "id": 4,
+    "name": "اوغندا",
+    "image": "/image/0812202414323566ba1d0316573.png",
+    "cost":"1850"
+
+},
+  {
+    "id": 5,
+    "name": "غانا",
+    "image": "/image/0812202414323166ba1cff638f1.png",
+    "cost":"1850"
+
+
+  }
+]

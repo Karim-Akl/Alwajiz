@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "الفلبين",
+    "image": "/image/0812202414323066ba1cfe446f7.png",
+    "cost": "تحت المعالجه في دوله الفلبين"
+  },
+  {
+    "id": 2,
+    "name": "إثيوبيا",
+    "image": "/image/count1.png",
+    "link": "https://drive.google.com/drive/folders/1Q9a0JOvg4mhuF2SgGx1qFxOxcWVTnfyF",
+    "btu": "تعرف علي كافه التفاصيل وبيانات السيره الزاتيه ",
+    "btu1": "اضغط هنا"
+  },
+  {
+    "id": 3,
+    "name": "بروندي",
+    "image": "/image/0812202414323266ba1d009d1b8.png",
+    "link": "https://drive.google.com/drive/folders/1c_w1Ko_5mpaFjWhip-zu_zG3GJ9Jr_Eh",
+    "btu": "تعرف علي كافه التفاصيل وبيانات السيره الزاتيه ",
+    "btu1": "اضغط هنا"
+  },
+  {
+    "id": 4,
+    "name": "اوغندا",
+    "image": "/image/0812202414323566ba1d0316573.png",
+    "link": "https://drive.google.com/drive/folders/1TDK8YixFO-S-ei7jlVmkUqlpmCihRCHS",
+    "btu": "تعرف علي كافه التفاصيل وبيانات السيره الزاتيه ",
+    "btu1": "اضغط هنا"
+  },
+  {
+    "id": 5,
+    "name": "بنجلاديش",
+    "image": "/image/0812202414323166ba1cff638f1.png",
+    "cost": "تحت المعالجه في دوله بنجلاديش"
+  }
+]

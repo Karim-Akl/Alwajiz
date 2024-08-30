@@ -1,0 +1,129 @@
+.bac{
+  background-color: antiquewhite;
+  background-color: antiquewhite;
+  margin: auto;
+  width: 100%;
+  padding: 10rem;
+  gap: 2rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  height: auto;
+;
+}
+.text-bac{
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  width: 50%;
+}
+.text-bac h2{
+  font-size: xx-large;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+.bac  img{
+  width: 50% !important;
+}
+
+.img-class-bg{
+  background-image: linear-gradient(45deg, #E29933 0%, #ffffff 100%);
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin: auto;
+  width: 50%;
+  padding: 20px;
+  color: black !important;
+  margin-bottom: 10rem;
+  gap: 1rem;
+}
+.img-class-bg img{
+  width: 100%;
+}
+.img-class-bg p{
+  width: 100%;
+}
+
+.sss{
+  width: 80%;
+  margin: auto;
+  justify-content: center;
+  align-items: center;
+}
+
+@media (max-width: 968px){
+  .bac{
+    flex-direction: column;
+    width: 100%;
+    padding: 1rem;
+  }
+  .sss{
+    flex-direction: column;
+    width: 100%;
+    margin-block: 60px !important;
+
+  }
+  .img-class-bg img{
+    width: 100%;
+  }
+  .img-class-bg{
+    background-color: antiquewhite;
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: auto;
+    width: 100%;
+    padding: 20px;
+    width: 100%;
+
+
+  }
+  .bac  img{
+    width: 70% !important;
+  }
+  .text-bac{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    width: 100% !important;
+  
+  }
+  .text-bac p{
+    width: 100%;
+  }
+  
+}
+/* philippines.css */
+.bac {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.text-bac {
+  flex: 1;
+}
+
+.img-class-bg {
+  display: flex;
+  align-items: center;
+}
+
+.sss {
+  display: flex;
+  justify-content: space-around;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
