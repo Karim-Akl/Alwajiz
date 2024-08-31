@@ -168,7 +168,7 @@
   transition: .6s;
 }
 .bg-class-contact pre:hover{
-  color: #e81cff;
+  color: #25d366;
 }
 .bg-class-contact{
   flex-direction: column;
@@ -239,11 +239,13 @@
   justify-content: center;
   overflow: hidden;
   transition: all 0.4s cubic-bezier(0.15, 0.83, 0.66, 1);
+  color: white !important;
 }
 
 .card a:hover {
   transform: scale(1.2);
   border-radius: 15px;
+
 }
 /*instagram*/
 .card a:nth-child(1):hover {
@@ -305,4 +307,8 @@
 .card a:hover svg:last-child {
   opacity: 1;
   transform: translateY(0px);
+}
+
+.bg-class-contact h2{
+  /* color: white !important; */
 }

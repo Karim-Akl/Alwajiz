@@ -4,7 +4,7 @@
     display: flex;
     flex-direction: column;
     gap: 4rem;
-margin: auto;
+    margin: auto;
 }
 .img-text-hero{
   justify-content: space-evenly;
@@ -12,6 +12,7 @@ margin: auto;
   gap: 3rem;
   text-align: right;
   padding: 20px;
+  margin-block: 200px;
 }
 .img-text-hero p{ 
   width: 30rem;
@@ -133,7 +134,7 @@ section{
   width: 100%;
 }
 section .l1-class-bg{
-  background-color: var(--White);
+  background-color: #b5e690;
   width: 25%;
   padding: 20px;
   margin: auto;
@@ -142,6 +143,7 @@ section .l1-class-bg{
   text-align: center;
   margin-top: 5rem;
   border-radius: 15px;
+  height: 30rem !important;
   
 
 }
@@ -291,5 +293,28 @@ section .l1-class-bg{
     color:var(--black);
     font-size: large;
   
+  }
+}
+
+.box h2, .box p {
+  color: #455159;
+  font-size: xx-large;
+}
+section .l1-class-bg img{
+  border-radius: 50%;
+}
+@media (max-width: 968px) {
+  section .l1-class-bg {
+      width: 50%;
+      padding: 30px;
+  }
+}
+@media (max-width: 768px) {
+  section .l1-class-bg {
+      width: 90% !important;
+      padding: 10px;
+  }
+  section .l1-class-bg img{
+    width: 70% !important;
   }
 }

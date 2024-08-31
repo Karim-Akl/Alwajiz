@@ -125,7 +125,6 @@ main h1,main p{
     padding-inline: 20px;}
 } */
 
-
 /* ###################################### */
 /* main{
   position: relative;
@@ -137,15 +136,15 @@ main h1,main p{
   background-attachment: fixed;
 } */
 
-.homeLayout{
+.homeLayout {
   overflow: hidden;
 }
-.main-slider{
+.main-slider {
   position: relative;
   margin: auto;
   width: 80% !important;
 }
-.main-class{
+.main-class {
   position: absolute;
   display: flex;
   flex-direction: column;
@@ -166,7 +165,6 @@ main h1,main p{
   transform: translateY(-50%);
 }
 
-
 .main-class h2 {
   font-size: xx-large;
   font-style: oblique;
@@ -175,9 +173,9 @@ main h1,main p{
   font-weight: bolder;
   color: rgb(30, 30, 30);
   margin-bottom: 0;
-  font-family: 'Speed' !important;
+  font-family: "Speed" !important;
 }
-.main-class h4{
+.main-class h4 {
   font-style: oblique;
   font-size: small;
   letter-spacing: 1px;
@@ -185,12 +183,12 @@ main h1,main p{
   font-weight: bolder;
   color: rgb(0, 0, 0);
   letter-spacing: 1px;
-  font-family: 'Speed' !important;
+  font-family: "Speed" !important;
   width: 30%;
 }
 
-.main-class button{
-  background-color: #dd8729;
+.main-class button {
+  background-color: #f8e800;
   border-radius: 30px;
   padding: 10px;
   padding-left: 20px;
@@ -202,41 +200,39 @@ main h1,main p{
   display: flex;
   border: none;
   color: black;
-  transition: .4s;
+  transition: 0.4s;
   outline: 0;
   border: 0;
   width: 90px;
 }
-.main-class button:hover{
-  color: #f05c07;
+.main-class button:hover {
+  color:  #000!important;
   /* border: white solid 1px; */
-  background-color: black;
-
+  background-color: #abe57d;
 }
 
-@media (max-width: 768px){
+@media (max-width: 768px) {
   /* .main{
   background-position: center !important;
   margin: auto  ;
   } */
-  .main-class{
+  .main-class {
     gap: 8px;
   }
-  .main-class h2{
+  .main-class h2 {
     font-size: 15px;
     color: #000 !important;
   }
-  .main-class h4{
-    font-size: 13px !important;
-
-  }
-  .main-class button{
+  .main-class h4 {
     font-size: 13px !important;
   }
-  .main-class{
+  .main-class button {
+    font-size: 13px !important;
+  }
+  .main-class {
     margin: auto;
   }
-  .main-class h4{
+  .main-class h4 {
     font-style: oblique;
     font-size: small;
     letter-spacing: 1px;
@@ -244,28 +240,28 @@ main h1,main p{
     font-weight: bolder;
     color: #000000;
     letter-spacing: 1px;
-    font-family: 'Speed' !important;
+    font-family: "Speed" !important;
     width: 90%;
   }
 }
-@media (max-width: 1068px){
+@media (max-width: 1068px) {
   /* .main{
   background-position: left !important;
   } */
 }
 
 /* swiper style */
-.main-slider  .carousel {
+.main-slider .carousel {
   margin-top: 20px;
 }
 
-.main-slider  .wrap {
+.main-slider .wrap {
   border-radius: 4px;
   cursor: pointer;
   position: relative;
 }
 
-.main-slider  .wrap a {
+.main-slider .wrap a {
   border-radius: 4px;
   display: block;
   position: relative;
@@ -283,8 +279,8 @@ main h1,main p{
   /* margin:0 10px; */
 }
 
-.main-slider  .slick-dots li button:before {
-  font-family: 'slick';
+.main-slider .slick-dots li button:before {
+  font-family: "slick";
   font-size: 10px !important;
   line-height: 20px;
   position: absolute;
@@ -292,62 +288,53 @@ main h1,main p{
   left: 0;
   width: 30px;
   height: 20px;
-  content: '•';
+  content: "•";
   text-align: center;
-  opacity: .25;
+  opacity: 0.25;
   color: #dd5506 !important;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-.main-slider  .slick-dots li.slick-active button:before {
-  opacity: .75;
+.main-slider .slick-dots li.slick-active button:before {
+  opacity: 0.75;
   color: #f05c07;
 }
 
-.main-slider  .slick-slide img {
+.main-slider .slick-slide img {
   display: block;
   height: 480px;
   object-fit: cover;
   border-radius: 28px;
 }
-.main-slider  .flex{
+.main-slider .flex {
   display: flex;
   flex-direction: row;
   justify-content: center;
   align-items: center;
   gap: 20px;
 }
-@media screen and (max-width:800px) {
-  .main-slider   .slick-slide    img {
-    height: 202px;
-    object-fit: cover;
-  }
-  .main-class {
-    margin: auto;
-    margin-block: 220px !important;
-    }
-}
 
-.main-slider  .slick-slide img {
-display: block;
-height: 480px;
-object-fit: contain !important;
-border-radius: 28px;
+.main-slider .slick-slide img {
+  display: block;
+  height: 480px;
+  object-fit: contain !important;
+  border-radius: 28px;
 }
 .main-class {
   margin: auto;
   margin-block: 300px;
 }
 .main-slider .slick-slider {
-height: 100%;
-margin-bottom: 40px;
-margin-top: -90px;
-/* margin:0 10px; */
+  height: 100%;
+  margin-bottom: 40px;
+  margin-top: -90px;
+  /* margin:0 10px; */
 }
-.main-slider .slick-dots li button:before{
-margin-top: 100px;
-display: none !important;;
+.main-slider .slick-dots li button:before {
+  margin-top: 100px;
+  display: none !important;
 }
+
 @media (min-width: 768px) {
   .main-slider {
     position: relative;
@@ -356,5 +343,18 @@ display: none !important;;
     display: flex;
     flex-direction: column;
     margin-block: 10rem;
+  }
 }
+@media screen and (max-width: 800px) {
+  .main-slider .slick-slide img {
+    height: 202px;
+    object-fit: cover;
+  }
+  .main-class {
+    margin: auto;
+    margin-block: 220px !important;
+  }
+  .sec-serv .main-slider {
+    margin-bottom: 20rem !important;
+  }
 }

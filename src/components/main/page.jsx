@@ -1,40 +1,5 @@
 "use client";
-// import React from "react";
 import Link from "next/link";
-// import "./main.css";
-// const Page = () => {
-//   return (
-//     <div className="llll">
-
-//     <main>
-//       <div className="flex">
-//         <div className="ll">
-//         <div className="text-main">
-//         <h1>شركة دلتا النسيم </h1>
-//         <p>
-//           في شركة دلتا النسيم ، نفخر بكوننا أحد الروّاد في تقديم خدمات المنزلية
-//           الممتازة في المملكة العربية السعودية، مع أعلى تقييم في مساند.
-//         </p>
-//         </div>
-//         <div className="main-but">
-//           <Link href="/our-services">
-//           <button>خدماتنا</button>
-//           </Link>
-//           <Link href="/contact">
-//                 <button> تواصل معنا</button>
-//                 </Link>
-//         </div>
-//         </div>
-
-//       </div>
-//     </main>
-//     </div>
-
-//   );
-// };
-
-// export default Page;
-
 import React from "react";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
@@ -62,16 +27,6 @@ const ImgSlider = () => {
             />
           </a>
         </div>
-        {/* <div className="wrap">
-          <a href="#">
-            <img src="/image/cleaning-service-flat-design-illustration-people-vacuum-wipe-dust-sweeping-floor-house-background-banner-poster_2175-2080.jpg.avif" alt="Slider Image 2" />
-          </a>
-        </div> */}
-        {/* <div className="wrap">
-          <a href="#">
-            <img src="" alt="Slider Image 3" />
-          </a>
-        </div> */}
         <div className="wrap">
           <a href="#">
             <img src="/image/pngtree-cleaning-horizontal-vector-illustration-with-employees-of-cleaning-company-in-uniform-image_1391519.jpg" alt="Slider Image 4" />
@@ -79,9 +34,9 @@ const ImgSlider = () => {
         </div>
       </Slider>
       <div className="main-class">
-        <h2>شركة دلتا النسيم </h2>
+<h2>شركة الوجيز للإستقدام وباقات التأجير </h2>
         <h4>
-          في شركة دلتا النسيم ، نفخر بكوننا أحد الروّاد في تقديم خدمات المنزلية
+          في شركة الوجيز للإستقدام وباقات التأجير ، نفخر بكوننا أحد الروّاد في تقديم خدمات المنزلية
           الممتازة في المملكة العربية السعودية، مع أعلى تقييم في مساند.
         </h4>
         <div className="flex">

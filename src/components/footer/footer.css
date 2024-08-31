@@ -1,8 +1,12 @@
 footer {
-  margin-bottom: 50px;
   bottom: 0px !important;
   position: relative;
-  margin-bottom: 50px;
+  /* margin: 100px; */
+}
+section.section footer {
+  bottom: 0px !important;
+  position: absolute !important;
+  width: 100%;
 }
 
 .footer-class {
@@ -27,6 +31,7 @@ footer {
   text-decoration: underline;
   letter-spacing: 2px;
 }
+
 
 @media (max-width: 768px) {
   .footer-class {

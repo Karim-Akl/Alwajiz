@@ -3,17 +3,23 @@
 ==========================*/
 :root {
 
-  --White: #FFFFFF	;
-  --NavyBlue: rgb(9 33 67)	;
-  --black: #000000;
-  --blue-button: #1976d2;
+  --White:#f7ed05 ;
+  --NavyBlue: hsl(204deg 12.66% 30.98%);
+  --black:#000 ;
+  --blue-button: #acde86  ;
   --red-button: #e41d43;
   --icons: #40464d;
   --footer-bg: #212529;
   --white: #fff;
 }
+
+/* 
+#acde86
+#f8e800
+hsl(204deg 12.66% 30.98%)
+ */
 body {
-  background-color: var(--White);
+  background-color: var(--white);
   color: var(--black);
   direction: rtl;
   overflow-x: hidden;

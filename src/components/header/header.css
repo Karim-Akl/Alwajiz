@@ -1,5 +1,12 @@
 header{
   background-color: var(--NavyBlue);
+  margin-bottom: 100px ;
+
+}
+.contact-us header {
+  /* margin-bottom: 0px !important; */
+  margin-bottom: 0px !important;
+
 }
 .navbur{
   height: 5rem;
@@ -12,36 +19,36 @@ header ul.flex{
   gap: 2rem;
 }
 header button.contact-but{
-  background-color: var(--White);
+  background-color: #f7ed05;
   padding: 10px;
-  border-radius: 10px;
-  color: var(--black);
+  border-radius: 20px;
+  color: #000;
   font-weight: bold;
   font-size: small;
-
 }
 header button.contact-but:hover{
-  background-color: var(--black);
-  color: var(--White);
-  border: 1px solid var(--White);
+  background-color: var(--blue-button);
+  color: var(--black);
+  /* border: 1px solid var(--White); */
 }
 header ul.flex li{
-  transition: 0.8s;
-  padding: 10px;
-  border-radius: 10px;
+  transition: 0.3s;
+  padding: 8px;
+  border-radius: 20px;
 }
 header ul.flex li:hover{
   cursor: pointer;
-  background-color: var(--White);
-  padding: 10px;
-  border-radius: 10px;
-  background-color: var(--black);
-  color: var(--White);
-  border: 1px solid var(--White);
+  background-color: var(--blue-button) !important;
+  padding: 8px;
+  border-radius: 20px;
+  /* background-color: var(--black) !important; */
+  color: var(--black);
+  /* border: 1px solid var(--White); */
 }
 .img-class img{
   width: 5rem;
   height: auto;
+  margin-top: 15px;
 }
 header button.menu{
   padding: 3px !important;
