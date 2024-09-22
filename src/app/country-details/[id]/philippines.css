@@ -127,3 +127,12 @@ img {
   max-width: 100%;
   height: auto;
 }
+.bg-count-class .count:hover{
+  flex-wrap: wrap !important;
+}
+.count{
+  flex-wrap: wrap !important;
+}
+.bg-count-class{
+  width: 95% !important;
+}

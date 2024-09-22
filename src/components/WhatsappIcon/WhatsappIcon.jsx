@@ -2,7 +2,7 @@ import "./style.css"
 const WhatsappIcon = () => {
   return (
     <a
-    href="#!"
+    href="https://wa.me/966920031122"
     target="_blank"
     aria-label="whatsapp"
     rel="noreferrer"

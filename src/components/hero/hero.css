@@ -134,7 +134,7 @@ section{
   width: 100%;
 }
 section .l1-class-bg{
-  background-color: #b5e690;
+  background-color: #ffeb3b;
   width: 25%;
   padding: 20px;
   margin: auto;
@@ -148,7 +148,9 @@ section .l1-class-bg{
 
 }
 
-
+section .l1-class-bg:hover{
+  background-color: #b5e690;
+}
 .line-3-bg{
   margin: auto;
   width: 100%;

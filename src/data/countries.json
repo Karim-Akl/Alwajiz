@@ -1,37 +1,44 @@
 [
   {
     "id": 1,
-    "name": "اندونيسيا",
-    "image": "/image/Flag_of_Indonesia.svg",
-    "cost":"3600"
-
+    "name": "إثيوبيا",
+    "image": "/image/count1.png",
+    "link": "https://api.whatsapp.com/send?phone=+966920031122&text=مرحباً، أنا أتواصل معكم من خلال الموقع. أود الاستفسار عن إثيوبيا %20%0Ahttps://alwajez.com/country-details/1"
   },
   {
     "id": 2,
-    "name": "إثيوبيا  ",
-    "image": "/image/count1.png",
-    "cost":"1850"
-},
-{
-  "id": 3,
+    "name": "بنجلاديش",
+    "image": "/image/0812202414323166ba1cff638f1.png",
+    "link": "https://api.whatsapp.com/send?phone=+966920031122&text=مرحباً، أنا أتواصل معكم من خلال الموقع. أود الاستفسار عن بنجلاديش %20%0Ahttps://alwajez.com/country-details/2"
+  },
+  {
+    "id": 3,
     "name": "بروندي",
     "image": "/image/0812202414323266ba1d009d1b8.png",
-    "cost":"1850"
-
-},
-{
-  "id": 4,
-    "name": "اوغندا",
-    "image": "/image/0812202414323566ba1d0316573.png",
-    "cost":"1850"
-
-},
+    "link": "https://api.whatsapp.com/send?phone=+966920031122&text=مرحباً، أنا أتواصل معكم من خلال الموقع. أود الاستفسار عن بروندي %20%0Ahttps://alwajez.com/country-details/3"
+  },
+  {
+    "id": 4,
+    "name": "كينيا",
+    "image": "/image/Flag_of_Kenya.svg",
+    "link": "https://api.whatsapp.com/send?phone=+966920031122&text=مرحباً، أنا أتواصل معكم من خلال الموقع. أود الاستفسار عن كينيا %20%0Ahttps://alwajez.com/country-details/4"
+  },
   {
     "id": 5,
-    "name": "غانا",
-    "image": "/image/0812202414323166ba1cff638f1.png",
-    "cost":"1850"
-
-
+    "name": "اندونيسيا",
+    "image": "/image/Flag_of_Indonesia.svg",
+    "link": "https://api.whatsapp.com/send?phone=+966920031122&text=مرحباً، أنا أتواصل معكم من خلال الموقع. أود الاستفسار عن اندونيسيا %20%0Ahttps://alwajez.com/country-details/5"
+  },
+  {
+    "id": 6,
+    "name": "باكستان",
+    "image": "/image/gratis-png-bandera-de-pakistan-bandera-nacional-bandera-de-argentina-state-bank-of-pakistan-flag.png",
+    "link": "https://api.whatsapp.com/send?phone=+966920031122&text=مرحباً، أنا أتواصل معكم من خلال الموقع. أود الاستفسار عن باكستان %20%0Ahttps://alwajez.com/country-details/6"
+  },
+  {
+    "id": 7,
+    "name": "سيرلانكا",
+    "image": "/image/png-clipart-flag-of-sri-lanka-national-flag-computer-icons-flag-miscellaneous-flag.png",
+    "link": "https://api.whatsapp.com/send?phone=+966920031122&text=مرحباً، أنا أتواصل معكم من خلال الموقع. أود الاستفسار عن سيرلانكا %20%0Ahttps://alwajez.com/country-details/7"
   }
 ]

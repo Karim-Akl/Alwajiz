@@ -29,13 +29,13 @@ const Page = () => {
           </p>
           <button onClick={handleContactClick}>توصل معنا</button>
         </div>
-        <div className="imga" style={{ width: "30%" }}>
+        {/* <div className="imga" style={{ width: "30%" }}>
           <img
             src="/image/pexels-tima-miroshnichenko-6200780.jpg"
             alt="عروض مغرية"
             width={200}
           />
-        </div>
+        </div> */}
       </div>
 
       <div className="class-bg">

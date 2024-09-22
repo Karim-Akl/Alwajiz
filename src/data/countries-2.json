@@ -1,38 +1,56 @@
 [
   {
     "id": 1,
-    "name": "الفلبين",
-    "image": "/image/0812202414323066ba1cfe446f7.png",
-    "cost": "تحت المعالجه في دوله الفلبين"
+    "name": "سيرلانكا",
+    "image": "/image/png-clipart-flag-of-sri-lanka-national-flag-computer-icons-flag-miscellaneous-flag.png",
+    "link": "https://api.whatsapp.com/send?phone=+966920031122&text=مرحباً، أنا أتواصل معكم من خلال الموقع. أود الاستفسار عن إستقدام من دولة سيرلانكا %20%0Ahttps://alwajez.com/country-details/1"
   },
   {
     "id": 2,
-    "name": "إثيوبيا",
-    "image": "/image/count1.png",
-    "link": "https://drive.google.com/drive/folders/1Q9a0JOvg4mhuF2SgGx1qFxOxcWVTnfyF",
-    "btu": "تعرف علي كافه التفاصيل وبيانات السيره الزاتيه ",
-    "btu1": "اضغط هنا"
+    "name": "اندونيسيا",
+    "image": "/image/Flag_of_Indonesia.svg",
+    "link": "https://api.whatsapp.com/send?phone=+966920031122&text=مرحباً، أنا أتواصل معكم من خلال الموقع. أود الاستفسار عن إستقدام من دولة اندونيسيا %20%0Ahttps://alwajez.com/country-details/2"
   },
   {
     "id": 3,
-    "name": "بروندي",
-    "image": "/image/0812202414323266ba1d009d1b8.png",
-    "link": "https://drive.google.com/drive/folders/1c_w1Ko_5mpaFjWhip-zu_zG3GJ9Jr_Eh",
-    "btu": "تعرف علي كافه التفاصيل وبيانات السيره الزاتيه ",
-    "btu1": "اضغط هنا"
+    "name": "باكستان",
+    "image": "/image/gratis-png-bandera-de-pakistan-bandera-nacional-bandera-de-argentina-state-bank-of-pakistan-flag.png",
+    "link": "https://api.whatsapp.com/send?phone=+966920031122&text=مرحباً، أنا أتواصل معكم من خلال الموقع. أود الاستفسار عن إستقدام من دولة باكستان %20%0Ahttps://alwajez.com/country-details/3"
   },
   {
     "id": 4,
-    "name": "اوغندا",
-    "image": "/image/0812202414323566ba1d0316573.png",
-    "link": "https://drive.google.com/drive/folders/1TDK8YixFO-S-ei7jlVmkUqlpmCihRCHS",
-    "btu": "تعرف علي كافه التفاصيل وبيانات السيره الزاتيه ",
-    "btu1": "اضغط هنا"
+    "name": "الهند",
+    "image": "/image/images.png",
+    "link": "https://api.whatsapp.com/send?phone=+966920031122&text=مرحباً، أنا أتواصل معكم من خلال الموقع. أود الاستفسار عن  إستقدام من دولة الهند %20%0Ahttps://alwajez.com/country-details/4"
   },
   {
     "id": 5,
+    "name": "بروندي",
+    "image": "/image/0812202414323266ba1d009d1b8.png",
+    "link": "https://api.whatsapp.com/send?phone=+966920031122&text=مرحباً، أنا أتواصل معكم من خلال الموقع. أود الاستفسار عن إستقدام من دولة بروندي %20%0Ahttps://alwajez.com/country-details/5"
+  },
+  {
+    "id": 6,
     "name": "بنجلاديش",
     "image": "/image/0812202414323166ba1cff638f1.png",
-    "cost": "تحت المعالجه في دوله بنجلاديش"
+    "link": "https://api.whatsapp.com/send?phone=+966920031122&text=مرحباً، أنا أتواصل معكم من خلال الموقع. أود الاستفسار عن  إستقدام من دولة بنجلاديش %20%0Ahttps://alwajez.com/country-details/6"
+  },
+  {
+    "id": 7,
+    "name": "إثيوبيا",
+    "image": "/image/count1.png",
+    "link": "https://api.whatsapp.com/send?phone=+966920031122&text=مرحباً، أنا أتواصل معكم من خلال الموقع. أود الاستفسار عن  إستقدام من دولة إثيوبيا %20%0Ahttps://alwajez.com/country-details/7"
+  },
+  {
+    "id": 8,
+    "name": "كينيا",
+    "image": "/image/Flag_of_Kenya.svg",
+    "link": "https://api.whatsapp.com/send?phone=+966920031122&text=مرحباً، أنا أتواصل معكم من خلال الموقع. أود الاستفسار عن  إستقدام من دولة كينيا %20%0Ahttps://alwajez.com/country-details/8"
+  },
+  {
+    "id": 9,
+    "name": "الفلبين",
+    "image": "/image/0812202414323066ba1cfe446f7.png",
+    "link": "https://api.whatsapp.com/send?phone=+966920031122&text=مرحباً، أنا أتواصل معكم من خلال الموقع. أود الاستفسار عن إستقدام من دولة الفلبين %20%0Ahttps://alwajez.com/country-details/9"
   }
 ]

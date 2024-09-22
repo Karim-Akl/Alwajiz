@@ -33,13 +33,13 @@ const Page = () => {
           </p>
           <button onClick={handleContactClick}>توصل معنا</button>
         </div>
-        <div className="imga" style={{ width: "30%" }}>
+        {/* <div className="imga" style={{ width: "30%" }}>
           <img
             src="/image/WhatsApp Image 2024-08-25 at 19.58.00.jpeg"
             alt="عروض مغرية"
             width={200}
           />
-        </div>
+        </div> */}
       </div>
 
       <div className="class-bg">
